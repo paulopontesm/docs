@@ -39,9 +39,12 @@ jq
 jscpd
 JSHint
 JSP
+markdownlint
 md
+monorepo
 namespace
 onboarding
+plaintext
 PMD
 Prospector
 PSScriptAnalyser
